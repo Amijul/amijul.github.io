@@ -1,0 +1,42 @@
+.confl{
+   background-color: rgba(128, 57, 221, 0.885);
+}
+
+.bgpic{
+    background-image: url('bg.jpg');
+
+}
+
+.imgCar{
+    width:60px;
+    height:60px;
+    
+}
+
+.fonts{
+    font-size: medium;
+}
+
+.color{
+    background-color: rgb(54, 153, 120);
+}
+
+.bg{
+    background-color: rgb(245, 246, 247);
+}
+
+.listStyle{
+    list-style: none;
+}
+
+.listStyle a:hover{
+    text-decoration:none;
+    background-color: aqua;
+}
+
+
+.dark-Th{
+    background-color: rgba(0, 0, 0, 0.314);
+    color:white;
+}
+
